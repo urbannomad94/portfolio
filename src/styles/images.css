@@ -1,0 +1,31 @@
+
+/* Add your profile image here */
+.Photo{
+    background-image: url('IMG-4474.jpg');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('https://media.giphy.com/media/v6AUy2KIjOqemmOPyE/giphy.gif');
+    cursor: none;    
+}
+.project2{
+    background-image: url('https://media.giphy.com/media/LSZxuoo9Q32yh6970t/giphy.gif');
+    cursor: none;
+}
+.project3{
+    background-image: url('https://media.giphy.com/media/vHp7qdP9vYl6EskQZF/giphy.gif');
+    cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+    cursor: none;
+}
+.misc2{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+    cursor: none;
+}
+.misc3{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
+    cursor: none;
+}
