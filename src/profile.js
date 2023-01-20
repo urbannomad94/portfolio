@@ -79,6 +79,7 @@ const projects = [
     name: 'Travelling Teachers Network',
     skills: ['HTML, CSS, JS, Node.js, Express, Bootstrap, MongoDB, Mongoose'],
     url: 'https://travellingteachersnetwork.cyclic.app/',
+    repo: 'https://github.com/urbannomad94/travelling-teachers-network',
   },
   {
     // Add image in './styles/images.css' in #project2
@@ -88,6 +89,7 @@ const projects = [
       'HTML, CSS, JS, Nods.js, Express, Bootstrap, MongoDB, Mongoose, Passport',
     ],
     url: 'https://storybooks.cyclic.app/',
+    repo: 'https://github.com/urbannomad94/storybooks',
   },
   {
     // Add image in './styles/images.css' in #project3
@@ -95,6 +97,7 @@ const projects = [
     name: 'Electronics E-commerce Website',
     skills: ['HTML, CSS, JS, React, NextJS, Sanity, Stripe'],
     url: 'https://react-ecommerce-urbannomad94.vercel.app/',
+    repo: 'https://github.com/urbannomad94/react-ecommerce',
   },
 ];
 

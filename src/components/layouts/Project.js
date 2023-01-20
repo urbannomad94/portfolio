@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Project = ({ id, name, url, skills }) => {
+const Project = ({ id, name, url, repo, skills }) => {
   return (
     <div data-aos='fade-up' className=' col-12 col-lg-4 project-card'>
       <div className='image-project'>
@@ -16,6 +16,24 @@ const Project = ({ id, name, url, skills }) => {
         <h2>{name}</h2>
       </a>
       {skills && <h3>{skills.map((skill) => skill)}</h3>}
+      <div className='d-flex justify-content-center'>
+        <a
+          href={url}
+          rel='noopener noreferrer'
+          target='_blank'
+          className='project-link'
+        >
+          Demo
+        </a>
+        <a
+          href={repo}
+          rel='noopener noreferrer'
+          target='_blank'
+          className='project-link'
+        >
+          Source Code
+        </a>
+      </div>
     </div>
   );
 };

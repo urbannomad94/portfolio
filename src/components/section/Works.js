@@ -21,6 +21,7 @@ const Works = () => {
                 id={x.id}
                 url={x.url}
                 name={x.name}
+                repo={x.repo}
                 skills={x.skills}
               />
             ))}

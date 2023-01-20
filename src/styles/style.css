@@ -7,3 +7,24 @@
     /* --primary-color:  #e96224;
     --hover-color:  #ff6600; */
 }
+
+.project-link {
+    padding: 10px 15px;
+    font-size: 1rem;
+    border-radius: 2rem;
+    color: #000;
+    background-color: var(--primary-color);
+    box-shadow: none;
+    outline: 0;
+    border: none;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 15px;
+    cursor: pointer;
+}
+
+.project-link:hover {
+    background-color: var(--hover-color);
+}
