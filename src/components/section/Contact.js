@@ -91,11 +91,16 @@ const Contact = () => {
                   )}
                   <br />
                 </div>
-                {social.resume && (
-                  <a title='Download Resume' href={social.resume} download>
-                    <i className='fas fa-download'></i>
+                <div className='resume-download'>
+                  {social.resume && (
+                    <a title='Download Resume' href={social.resume} download>
+                      <i className='fas fa-download'></i>
+                    </a>
+                  )}
+                  <a href={social.resume} download>
+                    Download Resume
                   </a>
-                )}
+                </div>
               </div>
             </div>
           </div>

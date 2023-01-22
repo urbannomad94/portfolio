@@ -28,3 +28,10 @@
 .project-link:hover {
     background-color: var(--hover-color);
 }
+
+.resume-download {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

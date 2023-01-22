@@ -133,7 +133,7 @@ const contact = {
 // Upload your resume in your drive, get the shareable link and paste it in the resume section
 const social = {
   github: 'https://github.com/urbannomad94',
-  twitter: 'https://twitter.com/aidan_codes',
+  // twitter: 'https://twitter.com/aidan_codes',
   linkedin: 'https://www.linkedin.com/in/aidan-williams123/',
   resume: 'https://pdfhost.io/v/hPzs2Kzff_Aidan_Williams_CV',
 };
