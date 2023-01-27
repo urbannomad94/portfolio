@@ -16,9 +16,13 @@
     background-image: url('https://media.giphy.com/media/vHp7qdP9vYl6EskQZF/giphy.gif');
     cursor: none;
 }
+.project4{
+    background-image: url('https://media.giphy.com/media/Pk6syw6gbbPnXKhNhq/giphy.gif');
+    cursor: none;
+}
 /* Miscelaneous Activities photo */
 .misc1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+    background-image: url('./tenzies.png');
     cursor: none;
 }
 .misc2{

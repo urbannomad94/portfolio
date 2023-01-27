@@ -99,6 +99,14 @@ const projects = [
     url: 'https://react-ecommerce-urbannomad94.vercel.app/',
     repo: 'https://github.com/urbannomad94/react-ecommerce',
   },
+  {
+    // Add image in './styles/images.css' in #project3
+    id: 'project4',
+    name: 'Tenzies',
+    skills: ['HTML, CSS, JS, React'],
+    url: 'https://main--majestic-dieffenbachia-3add2b.netlify.app/',
+    repo: 'https://github.com/urbannomad94/tenzies',
+  },
 ];
 
 // const section4Title = 'Miscellaneous';
